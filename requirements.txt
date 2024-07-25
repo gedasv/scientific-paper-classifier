@@ -1,8 +1,10 @@
 pandas
-numpy
+numpy==1.24.3
 matplotlib
 seaborn
 scikit-learn
 pyarrow
-torch
+torch==2.2.0+cu121
 transformers
+flask
+yaml
