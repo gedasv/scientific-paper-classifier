@@ -44,7 +44,7 @@ You can set up the environment using either venv or Conda.
 
 A pre-trained model is available for immediate use. You can download it from the following link:
 
-[Pre-trained Model](https://drive.google.com/file/d/1Wmrvl4A-P2uhnAlayCRLeuUneYqZYdNQ/view?usp=drive_link)
+[Pre-trained Model](https://drive.google.com/file/d/1Wmrvl4A-P2uhnAlayCRLeuUneYqZYdNQ/view?usp=sharing)
 
 After downloading, place the model file in the appropriate directory as specified in your `config.yaml` file.
 
